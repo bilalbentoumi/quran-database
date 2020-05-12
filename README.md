@@ -14,3 +14,6 @@ Database for Holy Quran
 
 ## Authors
 - This database is made and collected by Bilal Bentoumi
+
+## License
+It's totally free, just a good prayer is enough :)
